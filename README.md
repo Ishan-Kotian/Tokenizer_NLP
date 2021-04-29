@@ -1,1 +1,3 @@
 # Tokenizer_NLP
+# Motivation:
+Tokenization, or segmentation, is often the first step in text processing. It is not a trivial problem in such languages as Chinese, Japanese, or Vietnamese. For English, generally speaking, tokenization is not as important as those languages. However, it may not be so in the mobile environment as people often neglect it. Plus, in my opinion, English is a good testbed before we attack other challenging languages. Tradionally Conditional Random Fields have been successfully employed for tokenization, but neural networks can be an alternative. This is a simple, and/but fun task. Probably you can see the results in less than 10 minutes on a single GPU!
