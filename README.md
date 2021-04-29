@@ -23,3 +23,4 @@ For example, Transformer based models – the State of The Art (SOTA) Deep Learn
 As shown here, RNN receives and processes each token at a particular timestep.
 
 My Kaggle notebook:https://www.kaggle.com/lykin22/tokenizer-nlp
+If you liked my analysis, pls upvote my notebook!
